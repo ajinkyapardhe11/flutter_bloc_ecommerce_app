@@ -1,0 +1,124 @@
+[
+    {
+        "id":"shoe1",
+        "title":"Nike Mens Revolution 8 Running",
+        "price":4295.0,
+        "imageUrl":"https://m.media-amazon.com/images/I/61osQp90dIL._SY695_.jpg",
+        "rating":3.8,
+        "inStock":true,
+        "description":"The shoe is equipped with a soft foam midsole that delivers responsive cushioning, making it ideal for both casual wear and athletic activities."
+
+    },
+    {
+        "id":"shoe2",
+        "title":"BoldFit Running Shoes",
+        "price":1099.0,
+        "imageUrl":"https://m.media-amazon.com/images/I/61n0c-nFbBL._SX679_.jpg",
+        "rating":4.0,
+        "inStock":true,
+        "description":"BoldFit Running Shoes for Man Soft Sole Sports Shoes for Men Running Light Weight Shoe for Men Sports Anti Slip Gym Shoe for Man Workout mesh Gym Footwear, Black - 11"
+        
+    }
+    ,
+    {
+        "id":"shoe3",
+        "title":"Bacca Bucci Men Mesh Lace Up Running Shoes",
+        "price":1658.0,
+        "imageUrl":"https://m.media-amazon.com/images/I/51rYQM6RxNL._SY535_.jpg",
+        "rating":3.6,
+        "inStock":true,
+        "description":"These shoes blend form and function with high-density EVA outsoles that absorb impact and return energy with every step, designed to support rigorous routines across running, training, and sports."
+        
+    },
+    {
+        "id":"shoe4",
+        "title":"Puma Mens Galaxis Pro Running Shoe",
+        "price":3349.0,
+        "imageUrl":"https://m.media-amazon.com/images/I/51We0y6ETSL._SY695_.jpg",
+        "rating":4.1,
+        "inStock":true,
+        "description":"Step into the world of comfort and high functionality with these Men's Running Footwear. Designed to provide a snug fit and premium cushioning. These running essentials are perfect for those who crave a balance of style and performance. With a focus on comfort and support, these shoes are a must-have for running enthusiasts."
+        
+    },
+    {
+        "id":"shoe5",
+        "title":"adidas Men Duramo Sl M Running Shoe",
+        "price":3035.0,
+        "imageUrl":"https://m.media-amazon.com/images/I/715XwVIr6OL._SY625_.jpg",
+        "rating":4.1,
+        "inStock":true,
+        "description":"Training to achieve a new personal best, or just trying to make it to the bus stop on time? Whatever your goal, wherever you're going, the adidas Duramo SL Shoes put some snap into your step with LIGHTMOTION cushioning that is light, responsive and sculpted for comfort. The airy mesh upper keeps your feet feeling cool and dry no matter how much of a sweat you're working up. Made with a series of recycled materials, this upper features at least 50% recycled content. This product represents just one of our solutions to help end plastic waste."
+        
+    },
+    {
+        "id":"shoe6",
+        "title":"CULT Men Motive Running Shoes",
+        "price":2019.0,
+        "imageUrl":"https://m.media-amazon.com/images/I/615nV62w4LL._SY625_.jpg",
+        "rating":3.5,
+        "inStock":true,
+        "description":"The breathable knitted upper keeps your feet cool and supported with a flexible, sock-like fit that moves naturally through every run."
+        
+    },
+    {
+        "id":"shoe7",
+        "title":"ASICS Men's Gel-Excite 10 Running Shoes",
+        "price":4683.0,
+        "imageUrl":"https://m.media-amazon.com/images/I/61eHF8xaq4L._SX625_.jpg",
+        "rating":4.0,
+        "inStock":true,
+        "description":"The GEL-EXCITE™ 10 shoe creates more underfoot comfort for your run and fitness routine.  In addition to a higher stack height, the midsole also features AMPLIFOAM+ cushioning. This material is designed to help provide a more comfortable feel during different activities. Meanwhile, GEL™ technology is positioned in the rearfoot to support softer landings and improved comfort."
+        
+    },
+    {
+        "id":"shoe8",
+        "title":"Campus Men Strut Running Shoes",
+        "price":1249.0,
+        "imageUrl":"https://m.media-amazon.com/images/I/711w4urOaiL._SY625_.jpg",
+        "rating":4.2,
+        "inStock":true,
+        "description":"These sports shoes for men come with a soft, breezy upper that promotes airflow, keeping that stuff feeling at bay!"
+        
+    },
+    {
+        "id":"shoe9",
+        "title":"Reebok Men's Running Shoes",
+        "price":1249.0,
+        "imageUrl":"https://m.media-amazon.com/images/I/51Inwb0gwLL._SY625_.jpg",
+        "rating":3.9,
+        "inStock":true,
+        "description":"Light weighted and very flexible. It has Breathable Mesh and attractive styling. A lightweight and flexible shoe comprising of a mesh upper for breathability. Full EVA outsole that balances heel cushioning with responsiveness. Best for a daily running session."
+        
+    },
+    {
+        "id":"shoe10",
+        "title":"Nivia Astro Training Shoe",
+        "price":1879.0,
+        "imageUrl":"https://m.media-amazon.com/images/I/71piVnTL3pL._SY625_.jpg",
+        "rating":4.5,
+        "inStock":true,
+        "description":" Stability Like Never Before – The Flexipro technology outsole ensures perfect traction, flexibility, and durability, so you can move confidently on any surface."
+        
+    },
+    {
+        "id":"shoe11",
+        "title":"Impakto Barefoot Rooted Wide feet Shoes for Men",
+        "price":929.0,
+        "imageUrl":"https://m.media-amazon.com/images/I/71GqDBbwYIL._SY695_.jpg",
+        "rating":4.4,
+        "inStock":true,
+        "description":"Sports shoes, with its supportive resiliency provide energy return at every step. Made for long-term wear, with extra emphasis on providing cushion to the feet, removing heel strain. Good fitting and uncompromising style is the way because good shoes take you to good places."
+        
+    },
+    {
+        "id":"shoe12",
+        "title":"Skechers Men Lace Up Sports Shoes",
+        "price":3599.0,
+        "imageUrl":"https://m.media-amazon.com/images/I/71PdipUrsQL._SY625_.jpg",
+        "rating":4.0,
+        "inStock":true,
+        "description":"Skechers M-Strike technology promotes efficiency in each stride. This midsole configuration creates smooth transitions from landing to toe-off."
+        
+    }
+
+]
