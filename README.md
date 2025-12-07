@@ -7,7 +7,6 @@ All product data is **mocked locally using JSON**, while user authentication and
 
 The app includes:
 - Product listing with responsive grid
-- Product details with Hero animation
 - Add to cart & quantity selection
 - Guest & authenticated user flow
 - Cart persistence with Hive
@@ -17,8 +16,6 @@ The app includes:
 - Bottom navigation with Home, Cart, Profile
 - Snackbars for user feedback
 - Clean Material 3 UI
-
-This project was developed as part of a technical assignment to demonstrate Flutter fundamentals, state management, local persistence, and structured UI design.
 
 ---
 
