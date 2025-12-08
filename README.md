@@ -43,6 +43,8 @@ Flutter:Flutter 3.32.6(stable)
 
 Dart : 3.8.1
 
+ndkVersion:"29.0.14206865"
+
 # How to Test
 
 No automated unit or widget tests were added for this assignment.
