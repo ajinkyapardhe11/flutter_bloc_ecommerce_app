@@ -56,7 +56,7 @@ class _LoginPageState extends State<LoginPage> {
                   children: [
                     const SizedBox(height: 8),
                     Text(
-                      'Welcome back 👟',
+                      'Welcome back ',
                       style: theme.textTheme.titleLarge?.copyWith(
                         fontWeight: FontWeight.bold,
                       ),
